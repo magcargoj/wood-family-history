@@ -487,7 +487,7 @@ Chronological index of all dated events across the family tree.
 | 1990-06-30 | Marriage | [[Kevin_Scott_Brooks_Sr]] & [[Karen_Lynne_Almond]] | NC | GEDCOM |
 | 1991-02-01 | Death | [[Lena_Beatrice_Smith]] | TN | GEDCOM |
 | 1992-05-10 | Death | [[Jesse_Alton_Brown]] | NC | GEDCOM |
-| 1992 | Birth | [[Jeremy_Wood]] | NC | GEDCOM |
+| 1992-08-18 | Birth | [[Jeremy_Wood]] | Raleigh, NC | GEDCOM |
 | 1993-03-29 | Birth | [[Ashley_Jordan_Brooks]] | NC | GEDCOM |
 | 1996       | Birth | [[Kevin_Scott_Brooks_Jr]] | NC | User   |
 | 1998-05-21 | Birth | [[Christopher_James_Wood]] | NC | User   |

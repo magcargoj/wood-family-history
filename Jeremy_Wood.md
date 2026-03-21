@@ -18,8 +18,8 @@ tags: [genealogy, Wood, person]
 | Field      | Value                                               | Source               |
 | ---------- | --------------------------------------------------- | -------------------- |
 | Full Name  | Jeremy Daniel Wood                                  | Wood Family Tree.ged |
-| Born       | 08/18/1992                                          | Wood Family Tree.ged |
-| Birthplace | Wake County, NC                                     | Wood Family Tree.ged |
+| Born       | 18 Aug 1992                                         | Wood Family Tree.ged |
+| Birthplace | Raleigh, Wake County, NC                            | Wood Family Tree.ged |
 | Died       | LIVING                                              | Wood Family Tree.ged |
 | Burial     | N/A                                                 | Wood Family Tree.ged |
 | Father     | [[Jason_Bard_Waters]]                               | Wood Family Tree.ged |
