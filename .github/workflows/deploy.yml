@@ -18,45 +18,43 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Vault
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Checkout Quartz
-        uses: actions/checkout@v4
-        with:
-          repository: jackyzha0/quartz
-          path: quartz
-          ref: v4
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
 
-      - name: Install Dependencies
-        working-directory: ./quartz
-        run: npm ci
-
-      - name: Copy Vault to Quartz Content
+      - name: Install Quartz
         run: |
-          mkdir -p quartz/content
-          # Copy all markdown and source files to content
-          rsync -av --exclude='quartz' --exclude='.git' --exclude='.github' --exclude='node_modules' ./ quartz/content/
-          
-          # Overwrite default Quartz config with our custom ones
-          cp quartz.config.ts quartz/quartz.config.ts
-          cp quartz.layout.ts quartz/quartz.layout.ts
+          git clone https://github.com/jackyzha0/quartz.git __quartz
+          cd __quartz
+          git checkout v4
+          npm ci
+
+      - name: Prepare Content
+        run: |
+          mkdir -p __quartz/content
+          # Copy all vault files to the content directory
+          cp -r ./* __quartz/content/
+          # Remove the quartz builder directory from the content to avoid recursion
+          rm -rf __quartz/content/__quartz
+          # Overwrite config files
+          cp quartz.config.ts __quartz/quartz.config.ts
+          cp quartz.layout.ts __quartz/quartz.layout.ts
 
       - name: Build Quartz
-        working-directory: ./quartz
-        run: npx quartz build
+        run: |
+          cd __quartz
+          npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: quartz/public
+          path: __quartz/public
 
   deploy:
     needs: build
