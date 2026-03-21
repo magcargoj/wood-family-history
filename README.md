@@ -13,9 +13,9 @@ The heart of our research is the **[Complete Family Tree](Family_Tree.md)**.
 Discover the major chapters of our family history:
 
 *   **[The Slovakian Migration](Slovakia.md):** The journey of the Kruppa and Szeles families from Debraď and Stankovany.
-*   **[Colonial Virginia](William_Waters_Sr.md):** Early pioneers in the Virginia House of Burgess and the struggle of the early 1600s.
-*   **[North Carolina Pioneers](index.md):** Generations of farmers, soldiers, and families building NC.
-*   **[Service & Sacrifice](Timeline.md):** From the Revolutionary War to the Civil War and beyond.
+*   **[Colonial Virginia](Virginia.md):** Early pioneers in the Virginia House of Burgess and the struggle of the early 1600s.
+*   **[North Carolina Pioneers](North_Carolina.md):** Generations of farmers, soldiers, and families building NC.
+*   **[Service & Sacrifice](Military_History.md):** From the Revolutionary War to the Civil War and beyond.
 
 ### 🕒 The Timeline
 View every major birth, marriage, and death in chronological order:
