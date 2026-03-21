@@ -18,43 +18,45 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Vault
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          path: vault
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 22
 
-      - name: Install Quartz
+      - name: Install and Build Quartz
         run: |
-          git clone https://github.com/jackyzha0/quartz.git __quartz
-          cd __quartz
-          git checkout v4
+          # Clone Quartz in a separate directory to avoid recursion
+          git clone https://github.com/jackyzha0/quartz.git quartz-builder
+          cd quartz-builder
           npm ci
-
-      - name: Prepare Content
-        run: |
-          mkdir -p __quartz/content
-          # Copy all vault files to the content directory
-          cp -r ./* __quartz/content/
-          # Remove the quartz builder directory from the content to avoid recursion
-          rm -rf __quartz/content/__quartz
-          # Overwrite config files
-          cp quartz.config.ts __quartz/quartz.config.ts
-          cp quartz.layout.ts __quartz/quartz.layout.ts
-
-      - name: Build Quartz
-        run: |
-          cd __quartz
+          
+          # Clean default content and copy vault files
+          rm -rf content/*
+          cp -r ../vault/* content/
+          
+          # Remove git and workflow files from content to keep it clean
+          rm -rf content/.git content/.github content/quartz-builder
+          
+          # Overwrite with custom configs from the vault
+          if [ -f "../vault/quartz.config.ts" ]; then cp ../vault/quartz.config.ts quartz.config.ts; fi
+          if [ -f "../vault/quartz.layout.ts" ]; then cp ../vault/quartz.layout.ts quartz.layout.ts; fi
+          
+          # Build the site
           npx quartz build
+          
+          # Move result to where the uploader expects it
+          mv public ../public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: __quartz/public
+          path: public
 
   deploy:
     needs: build
