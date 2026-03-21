@@ -13,7 +13,9 @@ Complete merged family tree. All dates sourced; unsourced dates marked with `(un
 
 ```
 [[Jeremy_Wood]] (b. 1992)
-├── Spouse: [[Ashley_Jordan_Brooks]] (b. 1993)
+├── Spouse: [[Ashley_Jordan_Brooks]] (b. 1993) (Siblings: [[Kevin_Scott_Brooks_Jr]] (b. 1996), [[Jamie_Lynne_Emory]], [[Jessica_Rae_Brooks]])
+│   ├── [[Kevin_Scott_Brooks_Jr]] (b. 1996) & [[Logan_Beasley]]
+│   │   └── [[Natalie_Brooks]] & [[Malcolm_Brooks]]
 │   ├── [[Kevin_Scott_Brooks_Sr]] (b. 1967)
 │   │   ├── [[Henry_Calvin_Brooks]] (b. 1935)
 │   │   │   ├── [[Joseph_Orren_Brooks]] (1899-1971) & [[Lena_Tuggle]] (1909-2001)

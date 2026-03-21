@@ -10,6 +10,18 @@ tags: [genealogy, research, log]
 Chronological record of every archive searched, every query run, and every result (positive or negative). Negative results are crucial to prevent redundant work.
 
 ---
+## 2026-03-21: Contemporary Family Expansion (Ashley's Siblings)
+
+- **Goal**: Add modern relatives including Ashley's siblings and the next generation.
+- **Actions**:
+    - Created person notes for **Kevin Scott Brooks Jr.** (b. 1996), **Logan Beasley**, **Natalie Brooks**, **Malcolm Brooks**, **Jamie Lynne Emory**, and **Jessica Rae Brooks**.
+    - Updated 'Family_Tree.md' to reflect Ashley's siblings and Kevin Jr.'s family.
+    - Updated 'Timeline.md' with new birth events.
+- **Discoveries**:
+    - Identified the names and relationships of Ashley's immediate family.
+- **Count**: 271 named individuals (Delta: +6).
+
+---
 ## 2026-03-21: Discrepancy Resolution & Waters/Medlin Line Audits
 
 - **Goal**: Address specific user concerns regarding inbreeding in the Waters line and parentage discrepancies in the Medlin line.
