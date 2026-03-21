@@ -1,66 +1,43 @@
-name: Deploy Quartz site to GitHub Pages
-on:
-  push:
-    branches:
-      - main
-      - master
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
 
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Vault
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
-      - name: Install and Build Quartz
-        run: |
-          # Clone Quartz into a temp directory
-          git clone https://github.com/jackyzha0/quartz.git ../quartz-builder
-          cd ../quartz-builder
-          npm ci
-          
-          # Move vault content into builder
-          rm -rf content/*
-          cp -r "$GITHUB_WORKSPACE"/* content/
-          
-          # Use our specific configs
-          cp "$GITHUB_WORKSPACE"/quartz.config.ts .
-          cp "$GITHUB_WORKSPACE"/quartz.layout.ts .
-          
-          # Build
-          npx quartz build
-          
-          # Move output back to workspace
-          mv public "$GITHUB_WORKSPACE"/public
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
+  # Single deploy job since we're just deploying; no build step needed
   deploy:
-    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

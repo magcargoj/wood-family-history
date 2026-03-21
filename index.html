@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Wood Family History</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="A comprehensive genealogy of the Wood and Brooks families.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #284b63;
+    }
+    .markdown-section {
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Loading family records...</div>
+  <script>
+    window.$docsify = {
+      name: 'Wood Family History',
+      repo: 'https://github.com/magcargoj/wood-family-history',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      homepage: 'index.md',
+      auto2top: true,
+      search: 'auto',
+      // Wikilink support
+      markdown: {
+        renderer: {
+          link: function(href, title, text) {
+            if (href.startsWith('[[')) {
+              const target = href.replace('[[', '').replace(']]', '').replace(/ /g, '_');
+              return `<a href="#/${target}">${text || target}</a>`;
+            }
+            return this.origin.link.apply(this, arguments);
+          }
+        }
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+</body>
+</html>
