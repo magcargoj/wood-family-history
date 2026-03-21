@@ -16,8 +16,8 @@ Master index for family history research, genetic ancestry, and digitized archiv
 | Family Tree | [[Family_Tree]] | Complete merged tree (all lines) |
 | Research Log | [[Research_Log]] | Chronological record of research actions and findings |
 | Open Questions | [[Open_Questions]] | Research gaps ranked by priority |
-| Data Inventory | [[Data_Inventory]] | All source files tagged by type and reliability |
 | Timeline | [[Timeline]] | Every dated event, ordered chronologically |
+| Contact | [[Contact]] | Submit corrections or additional info |
 
 ## Regions (Geographic Deep Dives)
 

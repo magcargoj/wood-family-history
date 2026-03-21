@@ -22,7 +22,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          path: vault
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -31,27 +30,24 @@ jobs:
 
       - name: Install and Build Quartz
         run: |
-          # Clone Quartz in a separate directory to avoid recursion
-          git clone https://github.com/jackyzha0/quartz.git quartz-builder
-          cd quartz-builder
+          # Clone Quartz into a temp directory
+          git clone https://github.com/jackyzha0/quartz.git ../quartz-builder
+          cd ../quartz-builder
           npm ci
           
-          # Clean default content and copy vault files
+          # Move vault content into builder
           rm -rf content/*
-          cp -r ../vault/* content/
+          cp -r "$GITHUB_WORKSPACE"/* content/
           
-          # Remove git and workflow files from content to keep it clean
-          rm -rf content/.git content/.github content/quartz-builder
+          # Use our specific configs
+          cp "$GITHUB_WORKSPACE"/quartz.config.ts .
+          cp "$GITHUB_WORKSPACE"/quartz.layout.ts .
           
-          # Overwrite with custom configs from the vault
-          if [ -f "../vault/quartz.config.ts" ]; then cp ../vault/quartz.config.ts quartz.config.ts; fi
-          if [ -f "../vault/quartz.layout.ts" ]; then cp ../vault/quartz.layout.ts quartz.layout.ts; fi
-          
-          # Build the site
+          # Build
           npx quartz build
           
-          # Move result to where the uploader expects it
-          mv public ../public
+          # Move output back to workspace
+          mv public "$GITHUB_WORKSPACE"/public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
