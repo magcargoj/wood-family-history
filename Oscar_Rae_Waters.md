@@ -4,6 +4,7 @@ name: "Oscar Rae Waters"
 born: 1890-08-07
 died: 1965-12-19
 family: "Waters"
+verified: true
 confidence: high
 sources:
   - "1900 US Census"

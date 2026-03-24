@@ -84,18 +84,13 @@ graph LR
     MFMMM --> MFMMMF_M["<b><a href='#/Martha_Honeycutt.md'>Martha</a></b>"]
 
     MM --> MMF["<b><a href='#/Jesse_Alton_Brown.md'>Jesse Alton Brown</a></b><br/>B: 1923 NC<br/>D: 1992 NC"]
-    MM --> MMM["<b><a href='#/Lizzie_Briley.md'>Lizzie Briley</a></b><br/>B: 1896"]
+    MM --> MMM["<b><a href='#/Virginia_Dare_Wilson.md'>Virginia Dare Wilson Brown</a></b><br/>B: 1923 NC<br/>D: 2017 NC"]
     
     MMF --> MMFF["<b><a href='#/Jessie_M_Brown.md'>Jessie M. Brown</a></b><br/>B: 1896"]
     MMF --> MMFM["<b>Mary Brown</b>"]
     
-    MMM --> MMMF["<b><a href='#/Jesse_John_Holland_Briley.md'>Jesse John Holland Briley</a></b><br/>B: 1859 NC<br/>D: 1922 NC"]
-    MMM --> MMMM["<b><a href='#/Mississippi_Carson.md'>Mississippi Carson</a></b><br/>B: 1858<br/>D: 1932"]
-    
-    MMMF --> MMMFF["<b>Jesse Briley</b>"]
-    MMMF --> MMMFM["<b>Mary Ann Rains</b>"]
-    MMFF --> MMFFF["<b>James Brown</b>"]
-    MMFF --> MMFFM["<b>Mary Brown</b>"]
+    MMM --> MMMF["<b><a href='#/James_Floyd_Wilson.md'>James Floyd Wilson</a></b><br/>B: 1894<br/>D: 1964"]
+    MMM --> MMMM["<b><a href='#/Cleo_Marinda_Goodrich.md'>Cleo Marinda Goodrich</a></b><br/>B: 1904 NC<br/>D: 1974 NC"]
 ```
 
 ---

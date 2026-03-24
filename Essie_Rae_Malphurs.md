@@ -4,6 +4,7 @@ name: "Essie Rae Malphurs"
 born: 1894-12-31
 died: 1972-09-15
 family: "Malphurs"
+verified: true
 confidence: high
 sources:
   - "Wood Family Tree.ged"
