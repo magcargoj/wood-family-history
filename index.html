@@ -42,13 +42,33 @@
   <!-- Mermaid plugin -->
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+  <!-- svg-pan-zoom library -->
+  <script src="//cdn.jsdelivr.net/npm/svg-pan-zoom@latest/dist/svg-pan-zoom.min.js"></script>
   <script>
     var config = {
       startOnLoad: true,
-      flowchart: { useMaxWidth: true, htmlLabels: true, curve: 'cardinal' },
+      flowchart: { useMaxWidth: false, htmlLabels: true, curve: 'cardinal' },
       securityLevel: 'loose',
     };
     mermaid.initialize(config);
+
+    // Logic to add zoom to mermaid diagrams after they render
+    window.$docsify.plugins = [].concat(window.$docsify.plugins, function(hook, vm) {
+      hook.doneEach(function() {
+        const mermaids = document.querySelectorAll('.mermaid svg');
+        mermaids.forEach(svg => {
+          svg.style.width = '100%';
+          svg.style.height = '100%';
+          svgPanZoom(svg, {
+            zoomEnabled: true,
+            controlIconsEnabled: true,
+            fit: true,
+            center: true,
+            minZoom: 0.1
+          });
+        });
+      });
+    });
   </script>
 </body>
 </html>

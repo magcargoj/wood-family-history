@@ -8,134 +8,94 @@ Verified family history through **Generation 6 (3x Great-Grandparents)**.
 
 ```mermaid
 graph LR
-    J[Jeremy Daniel Wood<br/>B: 1992 Wilmington, NC]
+    J["<b><a href='#/Jeremy_Wood.md'>Jeremy Daniel Wood</a></b><br/>B: 1992 Wilmington, NC"]
     
-    J --> F[Jason Bard Waters<br/>B: 1970<br/>M: 1990 Charlotte, NC]
-    J --> M[Kimberly Wood<br/>B: 1975]
+    J --> F["<b><a href='#/Jason_Bard_Waters.md'>Jason Bard Waters</a></b><br/>B: 1970<br/>M: 1990 Charlotte, NC"]
+    J --> M["<b><a href='#/Kimberly_Wood.md'>Kimberly Wood</a></b><br/>B: 1975"]
     
-    F --> FF[Mike Waters<br/>B: 1946]
-    F --> FM[Sandra Waters<br/>B: 1947]
+    F --> FF["<b><a href='#/Mike_Waters.md'>Mike Waters</a></b><br/>B: 1946"]
+    F --> FM["<b><a href='#/Sandra_Waters.md'>Sandra Waters</a></b><br/>B: 1947"]
     
-    FF --> FFF[Gerald Lee Waters]
-    FF --> FFM[Mary Mae Lewis]
+    FF --> FFF["<b><a href='#/Gerald_Lee_Waters.md'>Gerald Lee Waters</a></b>"]
+    FF --> FFM["<b><a href='#/Mary_Mae_Lewis.md'>Mary Mae Lewis</a></b>"]
     
-    FFF --> FFFF[Oscar Rae Waters<br/>B: 1890 Dukes, FL<br/>D: 1965 Brooker, FL]
-    FFF --> FFFM[Essie Rae Malphurs<br/>B: 1894 Brooker, FL<br/>D: 1972 Lakeland, FL]
+    FFF --> FFFF["<b><a href='#/Oscar_Rae_Waters.md'>Oscar Rae Waters</a></b><br/>B: 1890 Dukes, FL<br/>D: 1965 Brooker, FL"]
+    FFF --> FFFM["<b><a href='#/Essie_Rae_Malphurs.md'>Essie Rae Malphurs</a></b><br/>B: 1894 Brooker, FL<br/>D: 1972 Lakeland, FL"]
     
-    FFFF --> FFFFF[James Que Waters<br/>B: 1857 GA<br/>D: 1940 FL]
-    FFFF --> FFFFM[Martha Thomas<br/>B: 1864 GA<br/>D: 1939 FL]
-    FFFM --> FFFMF[William Daniel Malphurs<br/>B: 1866 FL<br/>D: 1945 FL]
-    FFFM --> FFFMM[Janie Fowler<br/>B: 1867 FL<br/>D: 1945 FL]
+    FFFF --> FFFFF["<b><a href='#/James_Que_Waters.md'>James Que Waters</a></b><br/>B: 1857 GA<br/>D: 1940 FL"]
+    FFFF --> FFFFM["<b><a href='#/Martha_Louise_Thomas.md'>Martha Thomas</a></b><br/>B: 1864 GA<br/>D: 1939 FL"]
+    FFFM --> FFFMF["<b><a href='#/William_Daniel_Malphurs.md'>William Daniel Malphurs</a></b><br/>B: 1866 FL<br/>D: 1945 FL"]
+    FFFM --> FFFMM["<b><a href='#/Janie_Fowler.md'>Janie Fowler</a></b><br/>B: 1867 FL<br/>D: 1945 FL"]
     
-    FFM --> FFMF[Landon T. Lewis<br/>B: 1879 TN<br/>D: 1966 TN]
-    FFM --> FFMM[Lena Beatrice Smith<br/>B: 1890 TN<br/>D: 1991 TN]
+    FFM --> FFMF["<b><a href='#/Landon_T_Lewis.md'>Landon T. Lewis</a></b><br/>B: 1879 TN<br/>D: 1966 TN"]
+    FFM --> FFMM["<b><a href='#/Lena_Beatrice_Smith.md'>Lena Beatrice Smith</a></b><br/>B: 1890 TN<br/>D: 1991 TN"]
     
-    FFMF --> FFMFF[James Murray Lewis<br/>B: 1855 TN<br/>D: 1923 TN]
-    FFMF --> FFMFM[Judith Eveline Heatherly<br/>B: 1853 TN<br/>D: 1936 TN]
-    FFMM --> FFMMF[John Madison Smith Jr.<br/>B: 1862 TN<br/>D: 1924 TN]
-    FFMM --> FFMMM[Olive Pillsbury Traver<br/>B: 1867 VT<br/>D: 1955 TN]
+    FFMF --> FFMFF["<b><a href='#/James_Murray_Lewis.md'>James Murray Lewis</a></b><br/>B: 1855 TN<br/>D: 1923 TN"]
+    FFMF --> FFMFM["<b><a href='#/Judith_Eveline_Heatherly.md'>Judith Eveline Heatherly</a></b><br/>B: 1853 TN<br/>D: 1936 TN"]
+    FFMM --> FFMMF["<b><a href='#/John_Madison_Smith_Jr.md'>John Madison Smith Jr.</a></b><br/>B: 1862 TN<br/>D: 1924 TN"]
+    FFMM --> FFMMM["<b><a href='#/Olive_Pillsbury_Traver.md'>Olive Pillsbury Traver</a></b><br/>B: 1867 VT<br/>D: 1955 TN"]
 
-    FM --> FMF[Clyde Jones Jr.<br/>B: 1914<br/>D: 2011 TN]
-    FM --> FMM[Rose Mary Jones<br/>B: 1924<br/>D: 2013]
+    FM --> FMF["<b><a href='#/Clyde_Jones_Jr.md'>Clyde Jones Jr.</a></b><br/>B: 1914<br/>D: 2011 TN"]
+    FM --> FMM["<b><a href='#/Rose_Mary_Jones.md'>Rose Mary Jones</a></b><br/>B: 1924<br/>D: 2013"]
     
-    FMF --> FMFF[Clyde Jones Sr.<br/>B: 1887 NC<br/>D: 1962 TN]
-    FMF --> FMFM[Maude Elma Matney<br/>B: 1893 NC<br/>D: 1984 TN]
+    FMF --> FMFF["<b><a href='#/Clyde_Jones_Sr.md'>Clyde Jones Sr.</a></b><br/>B: 1887 NC<br/>D: 1962 TN"]
+    FMF --> FMFM["<b><a href='#/Maude_Matney.md'>Maude Elma Matney</a></b><br/>B: 1893 NC<br/>D: 1984 TN"]
     
-    FMFF --> FMFFF[Henry Raymond Jones<br/>B: 1853 NC<br/>D: 1936]
-    FMFF --> FMFFM[Charlotte Deane Vance<br/>B: 1859 NC<br/>D: 1945]
-    FMFM --> FMFMF[Martin Luther Matney<br/>B: 1853 NC<br/>D: 1938]
-    FMFM --> FMFMM[Susan Margaret Loudermilk<br/>B: 1858 NC<br/>D: 1934]
+    FMFF --> FMFFF["<b><a href='#/Henry_Raymond_Jones_Sr.md'>Henry Raymond Jones</a></b><br/>B: 1853 NC<br/>D: 1936"]
+    FMFF --> FMFFM["<b><a href='#/Charlotte_Diane_Vance.md'>Charlotte Deane Vance</a></b><br/>B: 1859 NC<br/>D: 1945"]
+    FMFM --> FMFMF["<b><a href='#/Martin_Luther_Matney.md'>Martin Luther Matney</a></b><br/>B: 1853 NC<br/>D: 1938"]
+    FMFM --> FMFMM["<b><a href='#/Susan_Margaret_Loudermilk.md'>Susan Margaret Loudermilk</a></b><br/>B: 1858 NC<br/>D: 1934"]
     
-    FMM --> FMMF[Anthony Emil Kruppa<br/>B: 1896 Slovakia<br/>D: 1970 PA]
-    FMM --> FMMM[Rozalia Szelesova<br/>B: 1895 Slovakia<br/>D: 1988]
+    FMM --> FMMF["<b><a href='#/Anthony_Krupa.md'>Anthony Emil Kruppa</a></b><br/>B: 1896 Slovakia<br/>D: 1970 PA"]
+    FMM --> FMMM["<b><a href='#/Rose_Szeles.md'>Rozalia Szelesova</a></b><br/>B: 1895 Slovakia<br/>D: 1988"]
     
-    FMMF --> FMMFF[Janos Kruppa<br/>B: 1825 Slovakia]
-    FMMM --> FMMMF[Janos Szeles<br/>Slovakia]
+    FMMF --> FMMFF["<b><a href='#/Joannes_Krupa.md'>Janos Kruppa</a></b><br/>B: 1825 Slovakia"]
+    FMMM --> FMMMF["<b><a href='#/Janos_Szeles.md'>Janos Szeles</a></b><br/>Slovakia"]
 
-    M --> MF[John Wood<br/>B: 1945]
-    M --> MM[Diane B. Wood<br/>B: 1946]
+    M --> MF["<b><a href='#/John_Wood.md'>John Wood</a></b><br/>B: 1945"]
+    M --> MM["<b><a href='#/Diane_B_Wood.md'>Diane B. Wood</a></b><br/>B: 1946"]
     
-    MF --> MFF[John Perry Wood Sr.<br/>B: 1906 NC<br/>D: 1955 NC]
-    MF --> MFM[Magnolia 'Maggie' Arnold<br/>B: 1913 NC<br/>D: 1974 NC]
+    MF --> MFF["<b><a href='#/John_Perry_Wood_Sr.md'>John Perry Wood Sr.</a></b><br/>B: 1906 NC<br/>D: 1955 NC"]
+    MF --> MFM["<b><a href='#/Magnolia_Maggie_Arnold.md'>Magnolia 'Maggie' Arnold</a></b><br/>B: 1913 NC<br/>D: 1974 NC"]
     
-    MFF --> MFFF[John Riley Wood<br/>B: 1870 NC<br/>D: 1946 NC]
-    MFF --> MFFM[Margaret Delaney Champion<br/>B: 1881 NC<br/>D: 1955 NC]
+    MFF --> MFFF["<b><a href='#/John_Riley_Wood.md'>John Riley Wood</a></b><br/>B: 1870 NC<br/>D: 1946 NC"]
+    MFF --> MFFM["<b><a href='#/Margaret_Delaney_Champion.md'>Margaret Delaney Champion</a></b><br/>B: 1881 NC<br/>D: 1955 NC"]
     
-    MFFF --> MFFFF[Mark John Wood<br/>B: 1834 NC<br/>D: 1907 NC]
-    MFFF --> MFFFM[Rebecca Smith Wood<br/>B: 1827 NC<br/>D: 1922 NC]
-    MFFM --> MFFMF[James Hinton Champion<br/>B: 1853 NC<br/>D: 1934 NC]
-    MFFM --> MFFMM[Mary Jane Wood<br/>B: 1865 NC<br/>D: 1951 NC]
+    MFFF --> MFFFF["<b><a href='#/Mark_John_Wood.md'>Mark John Wood</a></b><br/>B: 1834 NC<br/>D: 1907 NC"]
+    MFFF --> MFFFM["<b><a href='#/Rebecca_Smith.md'>Rebecca Smith Wood</a></b><br/>B: 1827 NC<br/>D: 1922 NC"]
+    MFFM --> MFFMF["<b><a href='#/James_Hinton_Champion.md'>James Hinton Champion</a></b><br/>B: 1853 NC<br/>D: 1934 NC"]
+    MFFM --> MFFMM["<b><a href='#/Mary_Jane_Wood.md'>Mary Jane Wood</a></b><br/>B: 1865 NC<br/>D: 1951 NC"]
     
-    MFM --> MFMF[Lonnie Frank Arnold Sr.<br/>B: 1866 NC<br/>D: 1948 NC]
-    MFM --> MFMM[Magnolia Catherine Tutor<br/>B: 1883 NC<br/>D: 1972 NC]
+    MFM --> MFMF["<b><a href='#/Lonnie_Frank_Arnold_Sr.md'>Lonnie Frank Arnold Sr.</a></b><br/>B: 1866 NC<br/>D: 1948 NC"]
+    MFM --> MFMM["<b><a href='#/Magnolia_Catherine_Tutor.md'>Magnolia Catherine Tutor</a></b><br/>B: 1883 NC<br/>D: 1972 NC"]
     
-    MFMF --> MFMFF[Thomas Harvill Arnold<br/>B: 1842 NC<br/>D: 1904 NC]
-    MFMF --> MFMFM[Elizabeth Betsy Rebecca Newell<br/>B: 1841 NC<br/>D: 1908 NC]
-    MFMFF --> MFMF FF[William Arnold & Nancy Ipock]
-    MFMFM --> MFMF MF[William Newell & Elizabeth]
+    MFMF --> MFMFF["<b><a href='#/Thomas_Harvill_Arnold.md'>Thomas Harvill Arnold</a></b><br/>B: 1842 NC<br/>D: 1904 NC"]
+    MFMF --> MFMFM["<b><a href='#/Elizabeth_Betsy_Rebecca_Newell.md'>Elizabeth Betsy Rebecca Newell</a></b><br/>B: 1841 NC<br/>D: 1908 NC"]
+    MFMFF --> MFMFFF_F["<b><a href='#/William_Arnold.md'>William Arnold</a></b>"]
+    MFMFF --> MFMFFF_M["<b><a href='#/Nancy_Ipock.md'>Nancy Ipock</a></b>"]
+    MFMFM --> MFMFMF_F["<b><a href='#/William_Newell.md'>William Newell</a></b>"]
+    MFMFM --> MFMFMF_M["<b><a href='#/Elizabeth_Hess.md'>Elizabeth</a></b>"]
     
-    MFMM --> MFMMF[Alfred Young Tutor<br/>B: 1852 NC<br/>D: 1940 NC]
-    MFMM --> MFMMM[Charlotte 'Lottie' Honeycutt<br/>B: 1858 NC<br/>D: 1941 NC]
-    MFMMF --> MFMM FF[William Madison Tutor & Harriet]
-    MFMMM --> MFMM MF[William Honeycutt & Martha]
+    MFMM --> MFMMF["<b><a href='#/Alfred_Young_Tutor.md'>Alfred Young Tutor</a></b><br/>B: 1852 NC<br/>D: 1940 NC"]
+    MFMM --> MFMMM["<b><a href='#/Charlotte_Lottie_Honeycutt.md'>Charlotte 'Lottie' Honeycutt</a></b><br/>B: 1858 NC<br/>D: 1941 NC"]
+    MFMMF --> MFMMFF_F["<b><a href='#/William_Madison_Tutor.md'>William Madison Tutor</a></b>"]
+    MFMMF --> MFMMFF_M["<b><a href='#/Harriet_Tutor.md'>Harriet</a></b>"]
+    MFMMM --> MFMMMF_F["<b><a href='#/William_Honeycutt.md'>William Honeycutt</a></b>"]
+    MFMMM --> MFMMMF_M["<b><a href='#/Martha_Honeycutt.md'>Martha</a></b>"]
 
-    MM --> MMF[Jesse Alton Brown<br/>B: 1923 NC<br/>D: 1992 NC]
-    MM --> MMM[Lizzie Briley<br/>B: 1896]
+    MM --> MMF["<b><a href='#/Jesse_Alton_Brown.md'>Jesse Alton Brown</a></b><br/>B: 1923 NC<br/>D: 1992 NC"]
+    MM --> MMM["<b><a href='#/Lizzie_Briley.md'>Lizzie Briley</a></b><br/>B: 1896"]
     
-    MMF --> MMFF[Jessie M. Brown<br/>B: 1896]
-    MMF --> MMFM[Mississippi Carson<br/>B: 1858<br/>D: 1932]
-
-    click J "Jeremy_Wood.md"
-    click F "Jason_Bard_Waters.md"
-    click M "Kimberly_Wood.md"
-    click FF "Mike_Waters.md"
-    click FM "Sandra_Waters.md"
-    click FFF "Gerald_Lee_Waters.md"
-    click FFM "Mary_Mae_Lewis.md"
-    click FFFF "Oscar_Rae_Waters.md"
-    click FFFM "Essie_Rae_Malphurs.md"
-    click FFFFF "James_Que_Waters.md"
-    click FFFFM "Martha_Louise_Thomas.md"
-    click FFFMF "William_Daniel_Malphurs.md"
-    click FFFMM "Janie_Fowler.md"
-    click FFMF "Landon_T_Lewis.md"
-    click FFMM "Lena_Beatrice_Smith.md"
-    click FFMFF "James_Murray_Lewis.md"
-    click FFMFM "Judith_Eveline_Heatherly.md"
-    click FFMMF "John_Madison_Smith_Jr.md"
-    click FFMMM "Olive_Pillsbury_Traver.md"
-    click FMF "Clyde_Jones_Jr.md"
-    click FMM "Rose_Mary_Jones.md"
-    click FMFF "Clyde_Jones_Sr.md"
-    click FMFM "Maude_Matney.md"
-    click FMFFF "Henry_Raymond_Jones_Sr.md"
-    click FMFFM "Charlotte_Diane_Vance.md"
-    click FMFMF "Martin_Luther_Matney.md"
-    click FMFMM "Susan_Margaret_Loudermilk.md"
-    click FMMF "Anthony_Krupa.md"
-    click FMMM "Rose_Szeles.md"
-    click FMMFF "Joannes_Krupa.md"
-    click FMMMF "Janos_Szeles.md"
-    click MF "John_Wood.md"
-    click MM "Diane_B_Wood.md"
-    click MFF "John_Perry_Wood_Sr.md"
-    click MFM "Magnolia_Maggie_Arnold.md"
-    click MFFF "John_Riley_Wood.md"
-    click MFFM "Margaret_Delaney_Champion.md"
-    click MFFFF "Mark_John_Wood.md"
-    click MFFFM "Rebecca_Smith.md"
-    click MFFMF "James_Hinton_Champion.md"
-    click MFFMM "Mary_Jane_Wood.md"
-    click MFMF "Lonnie_Frank_Arnold_Sr.md"
-    click MFMM "Magnolia_Catherine_Tutor.md"
-    click MFMFF "Thomas_Harvill_Arnold.md"
-    click MFMFM "Elizabeth_Betsy_Rebecca_Newell.md"
-    click MFMMF "Alfred_Young_Tutor.md"
-    click MFMMM "Charlotte_Lottie_Honeycutt.md"
-    click MMF "Jesse_Alton_Brown.md"
-    click MMM "Lizzie_Briley.md"
-    click MMFF "Jessie_M_Brown.md"
-    click MMFM "Mississippi_Carson.md"
+    MMF --> MMFF["<b><a href='#/Jessie_M_Brown.md'>Jessie M. Brown</a></b><br/>B: 1896"]
+    MMF --> MMFM["<b>Mary Brown</b>"]
+    
+    MMM --> MMMF["<b><a href='#/Jesse_John_Holland_Briley.md'>Jesse John Holland Briley</a></b><br/>B: 1859 NC<br/>D: 1922 NC"]
+    MMM --> MMMM["<b><a href='#/Mississippi_Carson.md'>Mississippi Carson</a></b><br/>B: 1858<br/>D: 1932"]
+    
+    MMMF --> MMMFF["<b>Jesse Briley</b>"]
+    MMMF --> MMMFM["<b>Mary Ann Rains</b>"]
+    MMFF --> MMFFF["<b>James Brown</b>"]
+    MMFF --> MMFFM["<b>Mary Brown</b>"]
 ```
 
 ---
@@ -144,98 +104,82 @@ graph LR
 
 ```mermaid
 graph LR
-    A[Ashley Jordan Brooks<br/>B: 1993 Clayton, NC]
+    A["<b><a href='#/Ashley_Jordan_Brooks.md'>Ashley Jordan Brooks</a></b><br/>B: 1993 Clayton, NC"]
     
-    A --> AF[Kevin Scott Brooks Sr.<br/>B: 1967]
-    A --> AM[Karen Lynne Almond]
+    A --> AF["<b><a href='#/Kevin_Scott_Brooks_Sr.md'>Kevin Scott Brooks Sr.</a></b><br/>B: 1967"]
+    A --> AM["<b><a href='#/Karen_Lynne_Almond.md'>Karen Lynne Almond</a></b>"]
     
-    AF --> AFF[Henry Calvin Brooks<br/>B: 1945]
-    AF --> AFM[Blanche Maxine Medlin<br/>B: 1946]
+    AF --> AFF["<b><a href='#/Henry_Calvin_Brooks.md'>Henry Calvin Brooks</a></b><br/>B: 1945"]
+    AF --> AFM["<b><a href='#/Blanche_Maxine_Medlin.md'>Blanche Maxine Medlin</a></b><br/>B: 1946"]
     
-    AFF --> AFFF[Joseph Orren Brooks<br/>B: 1899 NC<br/>D: 1971 NC]
-    AFF --> AFFM[Lena Tuggle<br/>B: 1909 VA<br/>D: 2001 NC]
+    AFF --> AFFF["<b><a href='#/Joseph_Orren_Brooks.md'>Joseph Orren Brooks</a></b><br/>B: 1899 NC<br/>D: 1971 NC"]
+    AFF --> AFFM["<b><a href='#/Lena_Tuggle.md'>Lena Tuggle</a></b><br/>B: 1909 VA<br/>D: 2001 NC"]
     
-    AFFF --> AFFFF[John Calvin Brooks<br/>B: 1856 NC<br/>D: 1931 NC]
-    AFFF --> AFFFM[Sarah Jane Black<br/>B: 1868 NC<br/>D: 1943 NC]
-    AFFFF --> AFFFFF[Calvin D. Brooks & Mary Brewer]
-    AFFFM --> AFFMF[Daniel Black & Louisa Miller]
+    AFFF --> AFFFF["<b><a href='#/John_Calvin_Brooks.md'>John Calvin Brooks</a></b><br/>B: 1856 NC<br/>D: 1931 NC"]
+    AFFF --> AFFFM["<b><a href='#/Sarah_Jane_Black.md'>Sarah Jane Black</a></b><br/>B: 1868 NC<br/>D: 1943 NC"]
+    AFFFF --> AFFFFF_F["<b><a href='#/Calvin_D_Brooks.md'>Calvin D. Brooks</a></b>"]
+    AFFFF --> AFFFFF_M["<b><a href='#/Mary_Brewer.md'>Mary Brewer</a></b>"]
+    AFFFM --> AFFMF_F["<b><a href='#/Daniel_Black.md'>Daniel Black</a></b>"]
+    AFFFM --> AFFMF_M["<b><a href='#/Louise_Ruth_Miller.md'>Louisa Miller</a></b>"]
     
-    AFFM --> AFFMF_T[Matison Reece Tuggle<br/>B: 1874 VA<br/>D: 1942 VA]
-    AFFM --> AFFMM_T[Eliza Jane Ball<br/>B: 1873 VA<br/>D: 1949 VA]
-    AFFMF_T --> AFFMFF_T[John Morris Tuggle & Martha McGahee]
-    AFFMM_T --> AFFMMF_T[Rev. George Ball Jr. & Mary Catherine Hess]
+    AFFM --> AFFMF_T["<b><a href='#/Matison_Reece_Tuggle.md'>Matison Reece Tuggle</a></b><br/>B: 1874 VA<br/>D: 1942 VA"]
+    AFFM --> AFFMM_T["<b><a href='#/Eliza_Jane_Ball.md'>Eliza Jane Ball</a></b><br/>B: 1873 VA<br/>D: 1949 VA"]
+    AFFMF_T --> AFFMFF_T["<b><a href='#/John_Morris_Tuggle.md'>John Morris Tuggle</a></b>"]
+    AFFMF_T --> AFFMFM_T["<b><a href='#/MARTHA_ANNABELLE_MCGEE.md'>Martha McGahee</a></b>"]
+    AFFMM_T --> AFFMMF_T["<b><a href='#/William_Henry_Ball_Jr.md'>Rev. George Ball Jr.</a></b>"]
+    AFFMM_T --> AFFMMM_T["<b><a href='#/Elizabeth_Hess.md'>Mary Catherine Hess</a></b>"]
 
-    AFM --> AFMF[Joe Madison Medlin Sr.<br/>B: 1908 NC<br/>D: 2005 NC]
-    AFM --> AFMM[Ella Blanche Eury<br/>B: 1911 NC<br/>D: 1955 NC]
+    AFM --> AFMF["<b><a href='#/Joe_Madison_Medlin_Sr.md'>Joe Madison Medlin Sr.</a></b><br/>B: 1908 NC<br/>D: 2005 NC"]
+    AFM --> AFMM["<b><a href='#/Ella_Blanche_Eury.md'>Ella Blanche Eury</a></b><br/>B: 1911 NC<br/>D: 1955 NC"]
     
-    AFMF --> AFMFF[Jefferson Davis Medlin<br/>B: 1870 NC<br/>D: 1962 NC]
-    AFMF --> AFMFM[Georgia Lee Grimes<br/>B: 1870 NC<br/>D: 1955 NC]
-    AFMFF --> AFMFFF[Ervin Medlin & Lydia P. Muse]
-    AFMFM --> AFMFMF[Henry Jackson Grimes & Sallie J. King]
+    AFMF --> AFMFF["<b><a href='#/Jefferson_Davis_Medlin.md'>Jefferson Davis Medlin</a></b><br/>B: 1870 NC<br/>D: 1962 NC"]
+    AFMF --> AFMFM["<b><a href='#/Georgia_Lee_Grimes.md'>Georgia Lee Grimes</a></b><br/>B: 1870 NC<br/>D: 1955 NC"]
+    AFMFF --> AFMFFF_F["<b><a href='#/Ervin_Medlin.md'>Ervin Medlin</a></b>"]
+    AFMFF --> AFMFFF_M["<b><a href='#/Lydia_P_Muse.md'>Lydia P. Muse</a></b>"]
+    AFMFM --> AFMFMF_F["<b><a href='#/Henry_Jackson_Grimes.md'>Henry Jackson Grimes</a></b>"]
+    AFMFM --> AFMFMF_M["<b><a href='#/Sallie_J_King.md'>Sallie J. King</a></b>"]
     
-    AFMM --> AFMMF[Robert Franklin Eury<br/>B: 1883 NC<br/>D: 1955 NC]
-    AFMM --> AFMMM[Minnie Lou Dennis<br/>B: 1886 NC<br/>D: 1965 NC]
-    AFMMF --> AFMMFF[Daniel Jefferson Eury & Mary Lavina Rummage]
-    AFMMM --> AFMMMF[Dumas Franklin Dennis & Mary Ann Dennis]
+    AFMM --> AFMMF["<b><a href='#/Robert_Franklin_Eury.md'>Robert Franklin Eury</a></b><br/>B: 1883 NC<br/>D: 1955 NC"]
+    AFMM --> AFMMM["<b><a href='#/Minnie_Lou_Dennis_Eury.md'>Minnie Lou Dennis</a></b><br/>B: 1886 NC<br/>D: 1965 NC"]
+    AFMMF --> AFMMFF_F["<b><a href='#/Daniel_Jefferson_Eury.md'>Daniel Jefferson Eury</a></b>"]
+    AFMMF --> AFMMFF_M["<b><a href='#/Mary_Lavina_Cameline_Rummage.md'>Mary Lavina Rummage</a></b>"]
+    AFMMM --> AFMMMF_F["<b><a href='#/Dumas_Franklin_Dennis.md'>Dumas Franklin Dennis</a></b>"]
+    AFMMM --> AFMMMF_M["<b><a href='#/Mary_Ann_Dennis.md'>Mary Ann Dennis</a></b>"]
 
-    AM --> AMF[Jerry Mack Almond<br/>B: 1934 NC<br/>D: 2025 NC]
-    AM --> AMM[Madelyn Warner<br/>B: 1935 NC]
+    AM --> AMF["<b><a href='#/Jerry_Mack_Almond.md'>Jerry Mack Almond</a></b><br/>B: 1934 NC<br/>D: 2025 NC"]
+    AM --> AMM["<b><a href='#/Madelyn_Warner.md'>Madelyn Warner</a></b><br/>B: 1935 NC"]
     
-    AMF --> AMFF[Mack Almond<br/>B: 1912 NC<br/>D: 1984 NC]
-    AMF --> AMFM[Margaret Shipes<br/>B: 1919 NC]
+    AMF --> AMFF["<b><a href='#/Mack_Almond.md'>Mack Almond</a></b><br/>B: 1912 NC<br/>D: 1984 NC"]
+    AMF --> AMFM["<b><a href='#/Margaret_Shipes.md'>Margaret Shipes</a></b><br/>B: 1919 NC"]
     
-    AMFF --> AMFFF[Matthew Monroe Almond<br/>B: 1881 NC<br/>D: 1935 NC]
-    AMFF --> AMFFM[Minnie L. Cooper<br/>B: 1889 NC<br/>D: 1971 NC]
-    AMFFF --> AMFFFF[John Almond & Elizabeth Sides]
-    AMFFM --> AMFFMF[John Boston Cooper & Martha Ann Lisk]
+    AMFF --> AMFFF["<b><a href='#/Matthew_Monroe_Almond.md'>Matthew Monroe Almond</a></b><br/>B: 1881 NC<br/>D: 1935 NC"]
+    AMFF --> AMFFM["<b><a href='#/Minnie_L_Cooper.md'>Minnie L. Cooper</a></b><br/>B: 1889 NC<br/>D: 1971 NC"]
+    AMFFF --> AMFFFF_F["<b><a href='#/John_Almond.md'>John Almond</a></b>"]
+    AMFFF --> AMFFFF_M["<b><a href='#/Elizabeth_Sides.md'>Elizabeth Sides</a></b>"]
+    AMFFM --> AMFFMF_F["<b><a href='#/John_Boston_Cooper.md'>John Boston Cooper</a></b>"]
+    AMFFM --> AMFFMF_M["<b><a href='#/Martha_Ann_Lisk.md'>Martha Ann Lisk</a></b>"]
     
-    AMFM --> AMFMF[John Allen Shipes Sr.<br/>B: 1900 SC<br/>D: 1976 NC]
-    AMFM --> AMFMM[Annie Lee Nichols<br/>B: 1894 SC<br/>D: 1972 NC]
-    AMFMF --> AMFMFF[John Thomas Shipes & Lillie Mae Tuten]
-    AMFMM --> AMFMMF[William Nichols & Mary Elizabeth Richardson]
+    AMFM --> AMFMF["<b><a href='#/John_Allen_Shipes_Sr.md'>John Allen Shipes Sr.</a></b><br/>B: 1900 SC<br/>D: 1976 NC"]
+    AMFM --> AMFMM["<b><a href='#/Anna_Lee_Nichols.md'>Annie Lee Nichols</a></b><br/>B: 1894 SC<br/>D: 1972 NC"]
+    AMFMF --> AMFMFF_F["<b><a href='#/John_Thomas_Shipes.md'>John Thomas Shipes</a></b>"]
+    AMFMF --> AMFMFF_M["<b><a href='#/Lillie_Mae_Tuten.md'>Lillie Mae Tuten</a></b>"]
+    AMFMM --> AMFMMF_F["<b><a href='#/William_Nichols.md'>William Nichols</a></b>"]
+    AMFMM --> AMFMMF_M["<b><a href='#/Mary_Elizabeth_Richardson.md'>Mary Elizabeth Richardson</a></b>"]
 
-    AMM --> AMMF[Alfred A. Warner<br/>B: 1882]
-    AMM --> AMMM[Alice Elizabeth Danner<br/>B: 1906 NC<br/>D: 1981 NC]
+    AMM --> AMMF["<b><a href='#/Affred_A_Warner.md'>Alfred A. Warner</a></b><br/>B: 1882"]
+    AMM --> AMMM["<b><a href='#/Alice_D_Danner.md'>Alice Elizabeth Danner</a></b><br/>B: 1906 NC<br/>D: 1981 NC"]
     
-    AMMF --> AMMFF_W[Alfred Dawson Warner<br/>B: 1857 NC<br/>D: 1905 NC]
-    AMMF --> AMMFM_W[Laura Jane Teal<br/>B: 1858 NC<br/>D: 1930 NC]
-    AMMFF_W --> AMMFFF_W[James Warner & Mary Warner]
-    AMMFM_W --> AMMMFF_W[William Honeycutt & Martha Honeycutt]
+    AMMF --> AMMFF_W["<b><a href='#/Alfred_Dawson_Dockery_Warner.md'>Alfred Dawson Warner</a></b><br/>B: 1857 NC<br/>D: 1905 NC"]
+    AMMF --> AMMFM_W["<b><a href='#/Laura_Jane_Teal.md'>Laura Jane Teal</a></b><br/>B: 1858 NC<br/>D: 1930 NC"]
+    AMMFF_W --> AMMFFF_W_F["<b><a href='#/James_Warner.md'>James Warner</a></b>"]
+    AMMFF_W --> AMMFFF_W_M["<b><a href='#/Mary_Warner.md'>Mary Warner</a></b>"]
+    AMMFM_W --> AMMMFF_W_F["<b><a href='#/William_Honeycutt.md'>William Honeycutt</a></b>"]
+    AMMFM_W --> AMMMFF_W_M["<b><a href='#/Martha_Honeycutt.md'>Martha Honeycutt</a></b>"]
     
-    AMMM --> AMMMF[Carl Martin Danner<br/>B: 1878 NC<br/>D: 1960 NC]
-    AMMM --> AMMMM[Jalie Frances Jarrett<br/>B: 1888 NC<br/>D: 1914 NC]
-    AMMMF --> AMMMFF[William Wesley Danner & Rebecca Shull]
-    AMMMM --> AMMMMF[William Jarrett & Alice Green]
-
-    click A "Ashley_Jordan_Brooks.md"
-    click AF "Kevin_Scott_Brooks_Sr.md"
-    click AM "Karen_Lynne_Almond.md"
-    click AFF "Henry_Calvin_Brooks.md"
-    click AFM "Blanche_Maxine_Medlin.md"
-    click AFFF "Joseph_Orren_Brooks.md"
-    click AFFM "Lena_Tuggle.md"
-    click AFFFF "John_Calvin_Brooks.md"
-    click AFFFM "Sarah_Jane_Black.md"
-    click AFFMF_T "Matison_Reece_Tuggle.md"
-    click AFFMM_T "Eliza_Jane_Ball.md"
-    click AFMF "Joe_Madison_Medlin_Sr.md"
-    click AFMM "Ella_Blanche_Eury.md"
-    click AFMFF "Jefferson_Davis_Medlin.md"
-    click AFMFM "Georgia_Lee_Grimes.md"
-    click AFMMF "Robert_Franklin_Eury.md"
-    click AFMMM "Minnie_Lou_Dennis_Eury.md"
-    click AMF "Jerry_Mack_Almond.md"
-    click AMM "Madelyn_Warner.md"
-    click AMFF "Mack_Almond.md"
-    click AMFM "Margaret_Shipes.md"
-    click AMFFF "Matthew_Monroe_Almond.md"
-    click AMFFM "Minnie_L_Cooper.md"
-    click AMFMF "John_Allen_Shipes_Sr.md"
-    click AMFMM "Anna_Lee_Nichols.md"
-    click AMMF "Affred_A_Warner.md"
-    click AMMM "Alice_D_Danner.md"
-    click AMMFF_W "Alfred_Dawson_Dockery_Warner.md"
-    click AMMFM_W "Laura_Jane_Teal.md"
-    click AMMMF "Carl_Martin_Danner.md"
-    click AMMMM "Jalie_Frances_Danner.md"
+    AMMM --> AMMMF["<b><a href='#/Carl_Martin_Danner.md'>Carl Martin Danner</a></b><br/>B: 1878 NC<br/>D: 1960 NC"]
+    AMMM --> AMMMM["<b><a href='#/Jalie_Frances_Danner.md'>Jalie Frances Jarrett</a></b><br/>B: 1888 NC<br/>D: 1914 NC"]
+    AMMMF --> AMMMFF_F["<b><a href='#/William_Wesley_Danner.md'>William Wesley Danner</a></b>"]
+    AMMMF --> AMMMFF_M["<b><a href='#/Rebecca_Shull.md'>Rebecca Shull</a></b>"]
+    AMMMM --> AMMMMF_F["<b><a href='#/William_Jarrett.md'>William Jarrett</a></b>"]
+    AMMMM --> AMMMMF_M["<b><a href='#/Alice_Green.md'>Alice Green</a></b>"]
 ```
