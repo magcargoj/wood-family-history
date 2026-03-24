@@ -1,123 +1,124 @@
 # Family Tree
 
-This chart displays the verified family history through **Generation 6 (3x Great-Grandparents)**. 
+This page contains the verified pedigree charts for both **Jeremy Daniel Wood** and **Ashley Jordan Brooks**, documenting their history through **Generation 6 (3x Great-Grandparents)**.
 
 ---
 
-## 🌳 Jeremy's Paternal Lineage
-**Branch:** Waters, Lewis, Kruppa, Jones
+## 🌳 Jeremy's Pedigree Chart
 
-[[Jeremy_Wood|Jeremy Daniel Wood]] (b. 1992)
-<br>└── [[Jason_Bard_Waters|Jason Bard Waters]] (b. 1970)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;├── [[Mike_Waters|Mike Waters]] (b. 1946)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Gerald_Lee_Waters|Gerald Lee Waters]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Oscar_Rae_Waters|Oscar Rae Waters]] (1890-1965)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[James_Que_Waters|James Que Waters]] & [[Martha_Thomas|Martha Thomas]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[William_Daniel_Malphurs|William Daniel Malphurs]] & [[Janie_Fowler|Janie Fowler]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Essie_Rae_Malphurs|Essie Rae Malphurs]] (1894-1972)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Mary_Mae_Lewis|Mary Mae Lewis]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Landon_T_Lewis|Landon T. Lewis]] (1879-1966)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[James_Murray_Lewis|James Murray Lewis]] & [[Judith_Eveline_Heatherly|Judith Eveline Heatherly]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[John_Madison_Smith|John Madison Smith]] & [[Olive_Pillsbury_Traver|Olive Pillsbury Traver]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Lena_Beatrice_Smith|Lena Beatrice Smith]] (1890-1991)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;└── [[Sandra_Waters|Sandra Waters]] (b. 1947)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Clyde_Jones_Jr|Clyde Jones Jr.]] (1914-2011)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Clyde_Jones_Sr|Clyde Jones Sr.]] (1887-1962)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Henry_Raymond_Jones|Henry Raymond Jones]] & [[Charlotte_Deane_Vance|Charlotte Deane Vance]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Martin_Luther_Matney|Martin Luther Matney]] & [[Susan_Margaret_Loudermilk|Susan Margaret Loudermilk]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Maude_Matney|Maude Elma Matney]] (1893-1984)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Rose_Mary_Jones|Rose Mary Jones]] (1924-2013)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Anthony_Krupa|Anthony Emil Kruppa]] (1896-1970)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Janos_Kruppa|Janos Kruppa]] (Slovakia)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Janos_Szeles|Janos Szeles]] (Slovakia)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Rose_Szeles|Rozalia Szelesova]] (1895-1988)
-
----
-
-## 🌳 Jeremy's Maternal Lineage
-**Branch:** Wood, Champion, Arnold, Tutor
-
-[[Jeremy_Wood|Jeremy Daniel Wood]] (b. 1992)
-<br>└── [[Kimberly_Wood|Kimberly Wood]] (b. 1975)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;├── [[John_Wood|John Wood]] (b. 1945)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[John_Perry_Wood_Sr|John Perry Wood Sr.]] (1906-1955)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[John_Riley_Wood|John Riley Wood]] (1870-1946)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Mark_John_Wood|Mark John Wood]] & [[Rebecca_Smith_Wood|Rebecca Smith Wood]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[John_Wood_1802|John Wood (1802)]] & [[Zilphia_Goodman|Zilphia Goodman]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Margaret_Delaney_Champion|Margaret Delaney Champion]] (1881-1955)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[James_Hinton_Champion|James Hinton Champion]] & [[Mary_Jane_Wood|Mary Jane Wood]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Mark_John_Wood|Mark John Wood]] & [[Rebecca_Smith_Wood|Rebecca Smith Wood]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Diane_B_Wood|Diane B. Wood]] (b. 1946)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Jesse_Alton_Brown|Jesse Alton Brown]] (1923-1992)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Jessie_M_Brown|Jessie M. Brown]] (b. 1896)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Mississippi_Carson|Mississippi Carson]] (1858-1932)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Lizzie_Briley|Lizzie Briley]] (b. 1896)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;└── [[Magnolia_Maggie_Arnold|Magnolia "Maggie" Arnold]] (1913-1974)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Lonnie_Frank_Arnold_Sr|Lonnie Frank Arnold Sr.]] (1866-1948)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Thomas_Harvill_Arnold|Thomas Harvill Arnold]] (1842-1904)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Harvill_Thomas_Arnold|Harvill Thomas Arnold]] & [[Elizabeth_Lanier|Elizabeth Lanier]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Herrin_Newell|Herrin Newell]] & [[Rachael|Rachael]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Elizabeth_Betsy_Rebecca_Newell|Elizabeth Betsy Newell]] (1841-1908)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Magnolia_Catherine_Tutor|Magnolia Catherine Tutor]] (1883-1972)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Alfred_Young_Tutor|Alfred Young Tutor]] (1852-1940)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[William_Madison_Tutor|William Madison Tutor]] & [[Harriet|Harriet]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[William_Honeycutt|William Honeycutt]] & [[Martha|Martha]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Charlotte_Lottie_Honeycutt|Charlotte "Lottie" Honeycutt]] (1858-1941)
+- **[[Jeremy_Wood|Jeremy Daniel Wood]]** (b. 1992)
+    - Father: **[[Jason_Bard_Waters|Jason Bard Waters]]** (b. 1970)
+        - Paternal Grandfather: **[[Mike_Waters|Mike Waters]]** (b. 1946)
+            - G-Grandfather: **[[Gerald_Lee_Waters|Gerald Lee Waters]]**
+                - 2x G-Grandfather: **[[Oscar_Rae_Waters|Oscar Rae Waters]]** (1890-1965)
+                    - 3x G-Grandfather: **[[James_Que_Waters|James Que Waters]]** (1857-1940)
+                    - 3x G-Grandmother: **[[Martha_Louise_Thomas|Martha Thomas]]** (1864-1939)
+                - 2x G-Grandmother: **[[Essie_Rae_Malphurs|Essie Rae Malphurs]]** (1894-1972)
+                    - 3x G-Grandfather: **[[William_Daniel_Malphurs|William Daniel Malphurs]]** (1866-1945)
+                    - 3x G-Grandmother: **[[Janie_Fowler|Janie Fowler]]** (1867-1945)
+        - Paternal Grandmother: **[[Sandra_Waters|Sandra Waters]]** (b. 1947)
+            - G-Grandfather: **[[Clyde_Jones_Jr|Clyde Jones Jr.]]** (1914-2011)
+                - 2x G-Grandfather: **[[Clyde_Jones_Sr|Clyde Jones Sr.]]** (1887-1962)
+                    - 3x G-Grandfather: **[[Henry_Raymond_Jones_Sr|Henry Raymond Jones]]** (1853-1936)
+                    - 3x G-Grandmother: **[[Charlotte_Diane_Vance|Charlotte Deane Vance]]** (1859-1945)
+                - 2x G-Grandmother: **[[Maude_Matney|Maude Elma Matney]]** (1893-1984)
+                    - 3x G-Grandfather: **[[Martin_Luther_Matney|Martin Luther Matney]]** (1853-1938)
+                    - 3x G-Grandmother: **[[Susan_Margaret_Loudermilk|Susan Margaret Loudermilk]]** (1858-1934)
+            - G-Grandmother: **[[Rose_Mary_Jones|Rose Mary Jones]]** (1924-2013)
+                - 2x G-Grandfather: **[[Anthony_Krupa|Anthony Emil Kruppa]]** (1896-1970)
+                    - 3x G-Grandfather: **[[Joannes_Krupa|Janos Kruppa]]** (b. 1825)
+                - 2x G-Grandmother: **[[Rose_Szeles|Rozalia Szelesova]]** (1895-1988)
+                    - 3x G-Grandfather: **[[Janos_Szeles|Janos Szeles]]** (Slovakia)
+    - Mother: **[[Kimberly_Wood|Kimberly Wood]]** (b. 1975)
+        - Maternal Grandfather: **[[John_Wood|John Wood]]** (b. 1945)
+            - G-Grandfather: **[[John_Perry_Wood_Sr|John Perry Wood Sr.]]** (1906-1955)
+                - 2x G-Grandfather: **[[John_Riley_Wood|John Riley Wood]]** (1870-1946)
+                    - 3x G-Grandfather: **[[Mark_John_Wood|Mark John Wood]]** (1834-1907)
+                    - 3x G-Grandmother: **[[Rebecca_Smith|Rebecca Smith Wood]]** (1827-1922)
+                - 2x G-Grandmother: **[[Margaret_Delaney_Champion|Margaret Delaney Champion]]** (1881-1955)
+                    - 3x G-Grandfather: **[[James_Hinton_Champion|James Hinton Champion]]** (1853-1934)
+                    - 3x G-Grandmother: **[[Mary_Jane_Wood|Mary Jane Wood]]** (1865-1951)
+        - Maternal Grandmother: **[[Diane_B_Wood|Diane B. Wood]]** (b. 1946)
+            - G-Grandfather: **[[Jesse_Alton_Brown|Jesse Alton Brown]]** (1923-1992)
+                - 2x G-Grandfather: **[[Jessie_M_Brown|Jessie M. Brown]]** (b. 1896)
+                - 2x G-Grandmother: **[[Mississippi_Carson|Mississippi Carson]]** (1858-1932)
+            - G-Grandmother: **[[Lizzie_Briley|Lizzie Briley]]** (b. 1896)
+        - Maternal Line (Arnold): **[[Magnolia_Maggie_Arnold|Magnolia "Maggie" Arnold]]** (1913-1974)
+            - 2x G-Grandfather: **[[Lonnie_Frank_Arnold_Sr|Lonnie Frank Arnold Sr.]]** (1866-1948)
+                - 3x G-Grandfather: **[[Thomas_Harvill_Arnold|Thomas Harvill Arnold]]** (1842-1904)
+                    - Parents: **[[William_Arnold]]** & **[[Nancy_Ipock]]**
+                - 3x G-Grandmother: **[[Elizabeth_Betsy_Rebecca_Newell|Elizabeth Betsy Newell]]** (1841-1908)
+                    - Parents: **[[Herrin_Newell]]** & **[[Rachael_Newell]]**
+            - 2x G-Grandmother: **[[Magnolia_Catherine_Tutor|Magnolia Catherine Tutor]]** (1883-1972)
+                - 3x G-Grandfather: **[[Alfred_Young_Tutor|Alfred Young Tutor]]** (1852-1940)
+                    - Parents: **[[William_Madison_Tutor]]** & **[[Harriet_Tutor]]**
+                - 3x G-Grandmother: **[[Charlotte_Lottie_Honeycutt|Charlotte "Lottie" Honeycutt]]** (1858-1941)
+                    - Parents: **[[William_Honeycutt]]** & **[[Martha_Honeycutt]]**
 
 ---
 
-## 🌳 Ashley's Paternal Lineage
-**Branch:** Brooks, Medlin, Eury, Tuggle
+## 🌳 Ashley's Pedigree Chart
 
-[[Ashley_Jordan_Brooks|Ashley Jordan Brooks]] (b. 1993)
-<br>└── [[Kevin_Scott_Brooks_Sr|Kevin Scott Brooks Sr.]] (b. 1967)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;├── [[Henry_Calvin_Brooks|Henry Calvin Brooks]] (b. 1945)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Joseph_Orren_Brooks|Joseph Orren Brooks]] (1899-1971)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[John_Calvin_Brooks|John Calvin Brooks]] (1856-1931)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Calvin_D_Brooks|Calvin D. Brooks]] & [[Mary_Brewer|Mary Brewer]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Daniel_Black|Daniel Black]] & [[Louisa_Miller|Louisa Miller]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Sarah_Jane_Black|Sarah Jane Black]] (1868-1943)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Lena_Tuggle|Lena Tuggle]] (1909-2001)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Matison_Reece_Tuggle|Matison Reece Tuggle]] (1874-1942)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[John_Morris_Tuggle|John Morris Tuggle]] & [[Martha_Annabelle_McGahee|Martha Annabelle McGahee]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[George_Ball_Jr|Rev. George Ball Jr.]] & [[Mary_Catherine_Hess|Mary Catherine Hess]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Eliza_Jane_Ball|Eliza Jane Ball]] (1873-1949)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;└── [[Blanche_Maxine_Medlin|Blanche Maxine Medlin]] (b. 1946)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Joe_Madison_Medlin_Sr|Joe Madison Medlin Sr.]] (1908-2005)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Jefferson_Davis_Medlin|Jefferson Davis Medlin]] (1870-1962)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Ervin_Medlin|Ervin Medlin]] & [[Lydia_P_Muse|Lydia P. Muse]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Henry_Jackson_Grimes|Henry Jackson Grimes]] & [[Sallie_J_King|Sallie J. King]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Georgia_Lee_Grimes|Georgia Lee Grimes]] (1870-1955)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Ella_Blanche_Eury|Ella Blanche Eury]] (1911-1955)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Robert_Franklin_Eury|Robert Franklin Eury]] (1883-1955)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Daniel_Jefferson_Eury|Daniel Jefferson Eury]] & [[Mary_Lavina_Cameline_Rummage|Mary Lavina Rummage]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Dumas_Franklin_Dennis|Dumas Franklin Dennis]] & [[Mary_Ann_Dennis|Mary Ann Dennis]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Minnie_Lou_Dennis_Eury|Minnie Lou Dennis]] (1886-1965)
-
----
-
-## 🌳 Ashley's Maternal Lineage
-**Branch:** Almond, Warner, Shipes, Danner
-
-[[Ashley_Jordan_Brooks|Ashley Jordan Brooks]] (b. 1993)
-<br>└── [[Karen_Lynne_Almond|Karen Lynne Almond]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;├── [[Jerry_Mack_Almond|Jerry Mack Almond]] (1934-2025)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Mack_Almond|Mack Almond]] (1912-1984)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Matthew_Monroe_Almond|Matthew Monroe Almond]] & [[Minnie_L_Cooper|Minnie L. Cooper]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[John_Almond|John Almond]] & [[Elizabeth_Sides|Elizabeth Sides]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[John_Boston_Cooper|John Boston Cooper]] & [[Martha_Ann_Lisk|Martha Ann Lisk]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Margaret_Shipes|Margaret Shipes]] (b. 1919)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[John_Allen_Shipes_Sr|John Allen Shipes Sr.]] & [[Anna_Lee_Nichols|Anna Lee Nichols]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[John_Thomas_Shipes|John Thomas Shipes]] & [[Lillie_Mae_Tuten|Lillie Mae Tuten]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Margaret_Shipes|Margaret Shipes]] (Note: Matches spouse name)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;└── [[Madelyn_Warner|Madelyn Warner]] (b. 1935)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Affred_A_Warner|Alfred A. Warner]] (b. 1882)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[Alfred_Dawson_Dockery_Warner|Alfred Dawson Warner]] (1857-1905)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[James_Warner|James Warner]] & [[Mary|Mary]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[William_Honeycutt|William Honeycutt]] & [[Martha|Martha]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[Laura_Jane_Teal|Laura Jane Teal]] (1858-1930)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Alice_D_Danner|Alice Elizabeth Danner]] (1906-1981)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [[Carl_Martin_Danner|Carl Martin Danner]] (1878-1960)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [[William_Wesley_Danner|William Wesley Danner]] & [[Rebecca_Shull|Rebecca Shull]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [[William_Jarrett|William Jarrett]] & [[Alice_Green|Alice Green]]
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [[Jalie_Frances_Danner|Jalie Frances Jarrett]] (1888-1914)
+- **[[Ashley_Jordan_Brooks|Ashley Jordan Brooks]]** (b. 1993)
+    - Father: **[[Kevin_Scott_Brooks_Sr|Kevin Scott Brooks Sr.]]** (b. 1967)
+        - Paternal Grandfather: **[[Henry_Calvin_Brooks|Henry Calvin Brooks]]** (b. 1945)
+            - G-Grandfather: **[[Joseph_Orren_Brooks|Joseph Orren Brooks]]** (1899-1971)
+                - 2x G-Grandfather: **[[John_Calvin_Brooks|John Calvin Brooks]]** (1856-1931)
+                    - 3x G-Grandfather: **[[Calvin_D_Brooks|Calvin D. Brooks]]** (1832-1862)
+                    - 3x G-Grandmother: **[[Mary_Brewer|Mary Brewer]]** (b. 1827)
+                - 2x G-Grandmother: **[[Sarah_Jane_Black|Sarah Jane Black]]** (1868-1943)
+                    - 3x G-Grandfather: **[[Daniel_Black|Daniel Black]]** (1840-1901)
+                    - 3x G-Grandmother: **[[Louise_Ruth_Miller|Louisa Miller]]** (1845-1921)
+            - G-Grandmother: **[[Lena_Tuggle|Lena Tuggle]]** (1909-2001)
+                - 2x G-Grandfather: **[[Matison_Reece_Tuggle|Matison Reece Tuggle]]** (1874-1942)
+                    - 3x G-Grandfather: **[[John_Morris_Tuggle|John Morris Tuggle]]** (1817-1904)
+                    - 3x G-Grandmother: **[[MARTHA_ANNABELLE_MCGEE|Martha Annabelle McGahee]]** (1832-1882)
+                - 2x G-Grandmother: **[[Eliza_Jane_Ball|Eliza Jane Ball]]** (1873-1949)
+                    - 3x G-Grandfather: **[[William_Henry_Ball_Jr|Rev. George Ball Jr.]]** (1841-1908)
+                    - 3x G-Grandmother: **[[Elizabeth_Hess|Mary Catherine Hess]]** (1853-1923)
+        - Paternal Grandmother: **[[Blanche_Maxine_Medlin|Blanche Maxine Medlin]]** (b. 1946)
+            - G-Grandfather: **[[Joe_Madison_Medlin_Sr|Joe Madison Medlin Sr.]]** (1908-2005)
+                - 2x G-Grandfather: **[[Jefferson_Davis_Medlin|Jefferson Davis Medlin]]** (1870-1962)
+                    - 3x G-Grandfather: **[[Ervin_Medlin|Ervin Medlin]]** (1822-1901)
+                    - 3x G-Grandmother: **[[Lydia_P_Muse|Lydia P. Muse]]** (1822-1904)
+                - 2x G-Grandmother: **[[Georgia_Lee_Grimes|Georgia Lee Grimes]]** (1870-1955)
+                    - 3x G-Grandfather: **[[Henry_Jackson_Grimes|Henry Jackson Grimes]]** (b. 1832)
+                    - 3x G-Grandmother: **[[Sallie_J_King|Sallie J. King]]** (b. 1829)
+            - G-Grandmother: **[[Ella_Blanche_Eury|Ella Blanche Eury]]** (1911-1955)
+                - 2x G-Grandfather: **[[Robert_Franklin_Eury|Robert Franklin Eury]]** (1883-1955)
+                    - 3x G-Grandfather: **[[Daniel_Jefferson_Eury|Daniel Jefferson Eury]]** (1856-1921)
+                    - 3x G-Grandmother: **[[Mary_Lavina_Cameline_Rummage|Mary Lavina Rummage]]** (1855-1931)
+                - 2x G-Grandmother: **[[Minnie_Lou_Dennis_Eury|Minnie Lou Dennis]]** (1886-1965)
+                    - 3x G-Grandfather: **[[Dumas_Franklin_Dennis|Dumas Franklin Dennis]]** (1859-1898)
+                    - 3x G-Grandmother: **[[Mary_Ann_Dennis|Mary Ann Dennis]]** (b. 1867)
+    - Mother: **[[Karen_Lynne_Almond|Karen Lynne Almond]]**
+        - Maternal Grandfather: **[[Jerry_Mack_Almond|Jerry Mack Almond]]** (1934-2025)
+            - G-Grandfather: **[[Mack_Almond|Mack Almond]]** (1912-1984)
+                - 2x G-Grandfather: **[[Matthew_Monroe_Almond|Matthew Monroe Almond]]** (1881-1935)
+                    - 3x G-Grandfather: **[[John_Almond|John Almond]]** (1824-1902)
+                    - 3x G-Grandmother: **[[Elizabeth_Sides|Elizabeth Sides]]** (1831-1911)
+                - 2x G-Grandmother: **[[Minnie_L_Cooper|Minnie L. Cooper]]** (1889-1971)
+                    - 3x G-Grandfather: **[[John_Boston_Cooper|John Boston Cooper]]** (1859-1926)
+                    - 3x G-Grandmother: **[[Martha_Ann_Lisk|Martha Ann Lisk]]** (1860-1931)
+            - G-Grandmother: **[[Margaret_Shipes|Margaret Shipes]]** (b. 1919)
+                - 2x G-Grandfather: **[[John_Allen_Shipes_Sr|John Allen Shipes Sr.]]** (1900-1976)
+                    - 3x G-Grandfather: **[[John_Thomas_Shipes|John Thomas Shipes]]** (c. 1865)
+                    - 3x G-Grandmother: **[[Lillie_Mae_Tuten|Lillie Mae Tuten]]** (c. 1870)
+                - 2x G-Grandmother: **[[Anna_Lee_Nichols|Anna Lee Nichols]]** (1894-1972)
+                    - 3x G-Grandfather: **[[William_Nichols|William Nichols]]** (c. 1860)
+                    - 3x G-Grandmother: **[[Mary_Elizabeth_Richardson|Mary Elizabeth Richardson]]** (c. 1865)
+        - Maternal Grandmother: **[[Madelyn_Warner|Madelyn Warner]]** (b. 1935)
+            - G-Grandfather: **[[Affred_A_Warner|Alfred A. Warner]]** (b. 1882)
+                - 2x G-Grandfather: **[[Alfred_Dawson_Dockery_Warner|Alfred Dawson Warner]]** (1857-1905)
+                    - 3x G-Grandfather: **[[James_Warner|James Warner]]** (b. 1824)
+                    - 3x G-Grandmother: **[[Mary_Warner|Mary Warner]]** (b. 1820)
+                - 2x G-Grandmother: **[[Laura_Jane_Teal|Laura Jane Teal]]** (1858-1930)
+                    - 3x G-Grandfather: **[[William_Honeycutt|William Honeycutt]]** (b. 1825)
+                    - 3x G-Grandmother: **[[Martha_Honeycutt|Martha Honeycutt]]** (b. 1823)
+            - G-Grandmother: **[[Alice_D_Danner|Alice Elizabeth Danner]]** (1906-1981)
+                - 2x G-Grandfather: **[[Carl_Martin_Danner|Carl Martin Danner]]** (1878-1960)
+                    - 3x G-Grandfather: **[[William_Wesley_Danner|William Wesley Danner]]** (1856-1924)
+                    - 3x G-Grandmother: **[[Rebecca_Shull|Rebecca Shull]]** (1860-1949)
+                - 2x G-Grandmother: **[[Jalie_Frances_Danner|Jalie Frances Jarrett]]** (1888-1914)
+                    - 3x G-Grandfather: **[[William_Jarrett|William Jarrett]]** (b. 1852)
+                    - 3x G-Grandmother: **[[Alice_Green|Alice Green]]** (b. 1854)
